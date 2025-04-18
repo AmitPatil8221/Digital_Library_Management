@@ -84,19 +84,6 @@ A comprehensive digital library management system with admin and user modules, b
    - Type your question/concern
    - Admin receives notification
 
-## Project Structure
-
-DigitalLibraryManagement/
-├── AdminDashboard.java        # Admin interface
-├── Book.java                  # Book entity
-├── IssueBook.java             # Book issuing functionality
-├── LibraryDatabase.java       # In-memory database
-├── LoginPage.java             # Login interface
-├── Main.java                  # Entry point
-├── QueryForm.java             # Query handling
-├── User.java                  # User entity
-└── UserDashboard.java         # User interface
-
 ## 🧑‍💻 Author
 
 Amit Patil  
